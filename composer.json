@@ -1,5 +1,5 @@
 {
-    "name": "gerkirill/dbStructSync",
+    "name": "gerkirill/db-struct-sync",
     "type": "library",
     "description": "mysql structure syncronisation tool",
     "keywords": ["mysql","sync", "structure sync"],
