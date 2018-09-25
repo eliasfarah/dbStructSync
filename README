@@ -1,8 +1,7 @@
+Original Owner of this project is https://github.com/gerkirill/dbStructSync
+
 The class provides ability to compare 2 database structure dumps and compile a set of sql statements to update
 one database to make it structure identical to another.
-
-Live demo could be found here: 
-http://gerr.info/dbSync.html
 
 The input for the script could be taken from the phpMyAdmin structure dump, or provided by some custom code
 that uses 'SHOW CREATE TABLE' query to get database structure table by table.
