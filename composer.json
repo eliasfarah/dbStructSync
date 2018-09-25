@@ -1,0 +1,16 @@
+{
+    "name": "gerkirill/dbStructSync",
+    "type": "library",
+    "description": "mysql structure syncronisation tool",
+    "keywords": ["mysql","sync", "structure sync"],
+    "homepage": "https://github.com/gerkirill/dbStructSync",    
+    "authors": [
+        {
+            "name": "gerkirill",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }    
+}
